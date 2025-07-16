@@ -1,48 +1,90 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-# Hi, I'm Shumani Monyai
-## Full-Stack Web Developer & IT Specialist
-I'm a South African tech enthusiast with 8+ years of IT support experience and a recent graduate of the FNB App Academy. I specialize in full-stack development, automation, and customer-focused solutions. I'm currently expanding my skills through FreeCodeCamp, where I'm learning and building projects to enhance my expertise.
+Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+I'm *Shumani Monyai*  
+================================================================
 
-### What I Do
-* Build Full-Stack Web Apps using HTML, CSS, JavaScript, Python & Flask
-* Automate Processes with Python & MetaTrader 5 (Forex Bots)
-* Design Responsive UIs with React and clean, mobile-friendly CSS
-* Solve Real Problems using tech, empathy, and a growth mindset
-* Currently working on Full Stack Development projects through FreeCodeCamp, focusing on:
-	+ Front-end development with HTML, CSS, and JavaScript
-	+ Back-end development with Python and Flask
+🎯 IT Specialist & Full-Stack Developer | Building With Purpose & Precision
+------------------------------------------------------------------------------
 
-### Tech Stack
-* Languages & Frameworks: HTML | CSS | JavaScript | React | Python | Flask
-* Tools & Skills: Git | GitHub | REST APIs | MetaTrader 5 | IT Support | Network Admin | CRM | Troubleshooting
+Hi! I’m Shumani — a passionate South African tech enthusiast with 8+ years of IT experience and a growing portfolio in web development. I’m a proud graduate of the *FNB App Academy* and currently enrolled in the *FreeCodeCamp Full Stack Development Curriculum*, gaining hands-on experience in scalable web apps, APIs, frontend frameworks, and back-end logic.
 
-### Projects
-* [Contact Book (API Integrated)](link-to-project)
-* [Responsive Calculator App](link-to-project)
-* [Login Form System](link-to-project)
-* [Pine City Zoo (Frontend UX)](link-to-project)
-* [Superhero Search App](link-to-project)
-* [Forex Trading Bot (Python + MT5)](link-to-project)
-* [GitHub Blog & Portfolio](link-to-project)
+🔧 Whether it’s debugging networks, designing sleek interfaces, or building Python bots, I turn complex challenges into clean, impactful, user-friendly solutions.
 
-### About Me
-* Based in Johannesburg, South Africa
-* Reach me at [Shumani.Monyai2@gmail.com](mailto:Shumani.Monyai2@gmail.com)
-* Portfolio: [LinkedIn Profile](link-to-profile)
-* Open to collaborating on:
-	+ Full-stack or frontend web projects
-	+ Python automation tools & bots
-	+ IT support dashboards or CRM systems
-	+ Creative tech portfolios or digital resumes
+---
 
-### Skills
+🚀 *What I Do*
+
+- 🧱 Build Full-Stack Applications using HTML, CSS, JavaScript, Python & Flask  
+- 🔁 Automate Workflows with Python & MetaTrader 5 (Forex Bots)  
+- 🧠 Solve real-world problems with empathy, logic, and tech  
+- 🎨 Craft Responsive UI using React & clean CSS  
+- 📚 Currently mastering full stack tools via FreeCodeCamp:
+  - Responsive Web Design
+  - JavaScript Algorithms & Data Structures
+  - Front End Development Libraries (React, Redux)
+  - Backend Development with Node.js, Express, and MongoDB
+  - APIs and Microservices  
+  - DevOps & Version Control
+
+---
+
+🛠 *Tech Stack*
+
+*Languages & Frameworks:*  
+HTML • CSS • JavaScript • Python • React • Flask • Node.js • PHP • Java • C#
+
+*Tools & Platforms:*  
+Git • GitHub • REST APIs • MetaTrader 5 • VS Code • Adobe Creative Suite • IT Support • Network Admin • CRM • Troubleshooting
+
+---
+
+📌 *Projects*
+
+- Contact Book (API Integrated)  
+- Responsive Calculator  
+- Login System  
+- Pine City Zoo UX Site  
+- Superhero Search App  
+- Forex Trading Bot (MT5 + Python)  
+- GitHub Portfolio + Blog
+
+---
+
+🌍 *About Me*
+
+- 📍 Based in Johannesburg, South Africa  
+- ✉ [Shumani.Monyai2@gmail.com](mailto:Shumani.Monyai2@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ShumaniMonyai)  
+- 💼 [GitHub](https://github.com/ShumaniMonyai)
+
+🤝 Open to collaborating on:
+- Frontend / Full-stack web projects  
+- Python automation tools & Forex bots  
+- IT support dashboards or CRM tools  
+- Portfolio or resume website builds  
+
+⚡ Young Black Dreamer 👨🏽‍💻 — Building tech that uplifts and empowers.
+
+---
+
+### 🧠 Skills  
 <p align="left">
-  <a href="https:                                                                                                                                                                                                                                                                                
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
-  <a href="https:    
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg
-   
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a>
-  <a href="https:                                                                                                                                                                                                                                    
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /></a>
+<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" /></a>
+<a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" /></a>
+<a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" /></a>
+<a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" /></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" /></a>
+<a href="https://web3js.readthedocs.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" /></a>
+</p>
+
+---
+
+### 🌐 Socials  
+<p align="left">
+<a href="https://github.com/ShumaniMonyai" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
+<a href="https://www.linkedin.com/in/ShumaniMonyai" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
 </p>
