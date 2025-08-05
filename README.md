@@ -1,90 +1,57 @@
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-I'm *Shumani Monyai*  
-================================================================
+# 👨🏽‍💻 Shumani Monyai | Full Stack Developer 🚀
 
-🎯 IT Specialist & Full-Stack Developer | Building With Purpose & Precision
-------------------------------------------------------------------------------
+Hi there! I'm **Shumani Monyai**, a passionate, self-driven **Full Stack Developer** from South Africa 🇿🇦, blending creativity, technology, and hustle to build modern web applications that **solve real problems**.
 
-Hi! I’m Shumani — a passionate South African tech enthusiast with 8+ years of IT experience and a growing portfolio in web development. I’m a proud graduate of the *FNB App Academy* and currently enrolled in the *FreeCodeCamp Full Stack Development Curriculum*, gaining hands-on experience in scalable web apps, APIs, frontend frameworks, and back-end logic.
-
-🔧 Whether it’s debugging networks, designing sleek interfaces, or building Python bots, I turn complex challenges into clean, impactful, user-friendly solutions.
+I recently completed the **FNB App Academy Full Stack Bootcamp** and I'm actively levelling up through the **FreeCodeCamp curriculum**. My GitHub is home to real projects, clean code, and digital ambition.
 
 ---
 
-🚀 *What I Do*
+## 💼 Portfolio Highlights
 
-- 🧱 Build Full-Stack Applications using HTML, CSS, JavaScript, Python & Flask  
-- 🔁 Automate Workflows with Python & MetaTrader 5 (Forex Bots)  
-- 🧠 Solve real-world problems with empathy, logic, and tech  
-- 🎨 Craft Responsive UI using React & clean CSS  
-- 📚 Currently mastering full stack tools via FreeCodeCamp:
-  - Responsive Web Design
-  - JavaScript Algorithms & Data Structures
-  - Front End Development Libraries (React, Redux)
-  - Backend Development with Node.js, Express, and MongoDB
-  - APIs and Microservices  
-  - DevOps & Version Control
+Here are some of the 🔥 projects I've built:
 
----
-
-🛠 *Tech Stack*
-
-*Languages & Frameworks:*  
-HTML • CSS • JavaScript • Python • React • Flask • Node.js • PHP • Java • C#
-
-*Tools & Platforms:*  
-Git • GitHub • REST APIs • MetaTrader 5 • VS Code • Adobe Creative Suite • IT Support • Network Admin • CRM • Troubleshooting
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| **[CV Builder](https://explora222.github.io/CV-Builder/)** | Build professional CVs with ease — mobile-first, ATS-friendly, and youth-focused. | ✅ Live |
+| **[Hustlers Tracker](https://explora222.github.io/Hustlers-Tracker/)** | A 30-day hustle tracker for accountability, daily habits & self-growth. | ✅ Live |
+| **[Chatbot](https://explora222.github.io/Chatbot/)** | A conversational AI chatbot with a clean, interactive UI. | ✅ Live |
+| **[Superhero App](https://explora222.github.io/Superhero-App/)** | Explore superheroes using API data — with filters, themes & sounds. | ✅ Live |
+| **[Coffee Website](https://explora222.github.io/Coffee/)** | A modern, animated coffee shop landing page with style and flair. | ✅ Live |
+| **[Product Landing Page](https://explora222.github.io/Product-Landing-Page/)** | One-page product showcase with clear CTA & marketing layout. | ✅ Live |
 
 ---
 
-📌 *Projects*
+## 🛠️ Tech Stack & Tools
 
-- Contact Book (API Integrated)  
-- Responsive Calculator  
-- Login System  
-- Pine City Zoo UX Site  
-- Superhero Search App  
-- Forex Trading Bot (MT5 + Python)  
-- GitHub Portfolio + Blog
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
+- **Backend**: Python (Flask), APIs
+- **Tools**: Git, GitHub, VS Code, Netlify, Canva, Figma
+- **Learning Now**: React, MongoDB, Advanced JavaScript (via FreeCodeCamp)
 
 ---
 
-🌍 *About Me*
+## 🌱 Current Journey
 
-- 📍 Based in Johannesburg, South Africa  
-- ✉ [Shumani.Monyai2@gmail.com](mailto:Shumani.Monyai2@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ShumaniMonyai)  
-- 💼 [GitHub](https://github.com/ShumaniMonyai)
-
-🤝 Open to collaborating on:
-- Frontend / Full-stack web projects  
-- Python automation tools & Forex bots  
-- IT support dashboards or CRM tools  
-- Portfolio or resume website builds  
-
-⚡ Young Black Dreamer 👨🏽‍💻 — Building tech that uplifts and empowers.
+I’m focused on:
+- Completing the full **FreeCodeCamp Developer Certification**
+- Building tools that empower job seekers & hustlers in Africa
+- Refining UI/UX skills & deploying mobile-first, real-world apps
+- Learning DevOps through Oracle’s Certification Program
 
 ---
 
-### 🧠 Skills  
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /></a>
-<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" /></a>
-<a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" /></a>
-<a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /></a>
-<a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" /></a>
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" /></a>
-<a href="https://web3js.readthedocs.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" /></a>
-</p>
+## 🧠 Personal Philosophy
+
+> "In the digital age, hustle meets code. Every line I write is a step closer to my vision."  
 
 ---
 
-### 🌐 Socials  
-<p align="left">
-<a href="https://github.com/ShumaniMonyai" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
-<a href="https://www.linkedin.com/in/ShumaniMonyai" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-</p>
+## 📫 Let's Connect!
+
+- 🔗 [Portfolio Website](https://explora222.github.io/ShumaniMonyaiPortfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shumani-m-75b73a278/)
+- 📧 shumanimonyai@gmail.com
+
+---
+
+### ⭐ If you like what I’m building, feel free to star ⭐ the repo and reach out for collabs or hiring!
