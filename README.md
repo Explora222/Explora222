@@ -47,7 +47,7 @@ Full-stack & web developer based in Johannesburg with 8+ years spanning IT suppo
 ## 💼 Experience Timeline  
 - 🖥 *Full Stack Developer (Bootcamp Projects)* – FNB App Academy (2025)  
 - ⚡ *Sales Consultant* – Virgin Active (2019-2024)  
-- 🔧 *Freelance IT Support & Network Admin* (2020-Present)  
+- 🔧 *Freelance Full Stack Developer, IT Support & Network Admin* (2020-Present)  
 
 ---
 
