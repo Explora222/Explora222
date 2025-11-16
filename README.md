@@ -63,8 +63,7 @@ Security-aware (CompTIA Security+), with growing DevOps fluency and a commitment
 ## 💼 Experience Timeline  
 
 - 🖥 Full Stack Developer – **FNB App Academy Projects** (2025)  
-- ⚡ Sales Manager – **Virgin Active** (2019–2024)  
-- 🔧 Freelance Full Stack Developer & IT Support (2020–Present)
+- 🔧 Freelance Full Stack Developer & IT Support (2018–Present)
 
 ---
 
