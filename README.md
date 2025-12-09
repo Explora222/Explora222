@@ -9,7 +9,7 @@
 
 ## 🧭 Professional Summary  
 
-Full-stack & web developer based in Johannesburg with 8+ years of experience across IT support, networking, and client-facing roles. I build responsive UIs, RESTful APIs, and automated tools using HTML, CSS, JavaScript (React, Node/Express), Python/Flask, SQL/NoSQL, and Git.  
+Full-stack & web developer based in Johannesburg with hands on experience across IT support, networking, and client-facing roles. I build responsive UIs, RESTful APIs, and automated tools using HTML, CSS, JavaScript (React, Node/Express), Python/Flask, SQL/NoSQL, and Git.  
 
 Security-aware (CompTIA Security+), with growing DevOps fluency and a commitment to clean code, testing, and documentation. I turn briefs into production-ready solutions and communicate clearly with both technical and non-technical stakeholders. I’m open to full-stack roles, collaborations, and security-sensitive builds.
 
