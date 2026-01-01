@@ -32,7 +32,7 @@ Security-aware (CompTIA Security+), with growing DevOps fluency and a commitment
 - 📚 Certified in **FreeCodeCamp JavaScript Algorithms & Data Structures**  
 - 🔐 **CompTIA Security+ (SY0-701)**  
 - 🧠 Additional certifications: **WildLearner** (React, Node.js, MongoDB, Express, TypeScript, Python) & **The Forage** (Software Development, Tech Engineering)  
-- 💼 8+ years of experience in **IT Support, Networking, and Software Development**  
+- 💼 4+ years of experience in **IT Support, Networking, and Software Development**  
 - 🔥 Passionate about **web apps**, **automation**, **security**, and **building tools for creators**
 
 ---
@@ -63,7 +63,7 @@ Security-aware (CompTIA Security+), with growing DevOps fluency and a commitment
 ## 💼 Experience Timeline  
 
 - 🖥 Full Stack Developer – **FNB App Academy Projects** (2025)  
-- 🔧 Freelance Full Stack Developer & IT Support (2018–Present)
+- 🔧 Freelance Full Stack Developer & IT Support (2020–Present)
 
 ---
 
