@@ -72,9 +72,12 @@ Open to remote, onsite, freelance, and hybrid roles
 ---
 
 ## 🤝 Open to Collaborate On
-- Full Stack & Frontend applications  
-- Startups, SaaS, and product teams  
-- Freelance and long-term contracts  
+
+Remote
+Onsite
+Freelance
+Hybrid opportunities
+
 
 ---
 
