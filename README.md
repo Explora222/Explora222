@@ -88,7 +88,3 @@ Tech geek in stealth mode 😎💻
 
 ---
 
-## 📊 GitHub Stats
-
-![Shumani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=explora222&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=explora222&layout=compact&theme=tokyonight)
